@@ -1,0 +1,20 @@
+{
+  "name": "ees-job-manager",
+  "short_name": "ees-job-manager",
+  "icons": [
+    {
+      "src": "settings-gear-63.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "settings-gear-63.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87"
+}
